@@ -10,6 +10,11 @@ To do:
 - [x] creating ../index.html
 - [x] creating ../assets/css/main.css
 - [ ] recieving a layout-plan
+- [ ] getting the logo
+- [ ] getting the HEX-Code for the colors
+  - lightgreen: #
+  - darkgreen: #
+  - grey: #
 - [ ] building the index.html file after the plan
 - [ ] getting it looking good with main.css
 - [ ] adding texts and images
